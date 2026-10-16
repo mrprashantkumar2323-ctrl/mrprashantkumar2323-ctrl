@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/header_banner.svg" alt="Prashant Kumar Header Banner" width="100%" />
+  <img src="./assets/animated_banner.svg" alt="Prashant Kumar Header Banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/mrprashantkumar2323-ctrl">
-    <img src="./assets/avatar_circle.png" width="155" height="155" alt="Prashant Kumar" />
+    <img src="./assets/avatar_circle.png" width="160" height="160" alt="Prashant Kumar" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&lines=Data+Science+%26+Machine+Learning+Specialist+%F0%9F%A4%96;Power+BI+%26+Business+Intelligence+Storyteller+%F0%9F%93%8A;GenAI+%26+Agentic+AI+Collections+Architect+%F0%9F%9A%80;Quantitative+Research+%26+Risk+Analytics+%F0%9F%93%88;Python+%E2%80%A2+SQL+%E2%80%A2+Predictive+Modeling+%E2%80%A2+DAX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Data+Science+%26+Machine+Learning+Specialist+%F0%9F%A4%96;Power+BI+%26+Business+Intelligence+Storyteller+%F0%9F%93%8A;GenAI+%26+Agentic+AI+Collections+Architect+%F0%9F%9A%80;Quantitative+Research+%26+Risk+Analytics+%F0%9F%93%88;Python+%E2%80%A2+SQL+%E2%80%A2+Predictive+Modeling+%E2%80%A2+DAX" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,12 +29,28 @@
   <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Data%20%2F%20ML%20Opportunities-10b981?style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="./assets/animated_divider.svg" width="100%" />
+</p>
+
 ---
 
-### 🏆 GitHub 3D Achievements & Trophies
+### 💻 Developer Terminal Diagnostics
+
+<p align="center">
+  <img src="./assets/animated_terminal.svg" width="100%" alt="Developer Terminal Diagnostics" />
+</p>
+
+---
+
+### 🏆 3D Achievement Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrprashantkumar2323-ctrl&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/animated_divider.svg" width="100%" />
 </p>
 
 ---
@@ -51,7 +67,7 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
 
 ---
 
-### 🚀 Featured Production-Grade Repositories
+### 🚀 Production-Grade Repositories (Click to Explore)
 
 <p align="center">
   <a href="https://github.com/mrprashantkumar2323-ctrl/British-Airways-Customer-Booking-Prediction">
@@ -181,12 +197,16 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
   </tr>
 </table>
 
+<p align="center">
+  <img src="./assets/animated_divider.svg" width="100%" />
+</p>
+
 ---
 
-### 🛠️ Technical Skills & Tooling
+### 🛠️ Interactive Skills Matrix
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,postgres,mysql,vscode,git,github,idea,unity&theme=dark" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,postgres,mysql,vscode,git,github,idea,unity,docker,linux&theme=dark" alt="Skills Icons" />
 </p>
 
 | Category | Technologies & Tools |
@@ -195,7 +215,7 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
 | **Data Science & ML** | `Scikit-Learn`, `Pandas`, `NumPy`, `Predictive Modeling`, `Feature Engineering`, `SHAP`, `EDA` |
 | **Analytics & Visualization** | `Power BI`, `Matplotlib`, `Seaborn`, `Microsoft Excel (Advanced)`, `Data Storytelling` |
 | **Modern AI & Frameworks** | `Generative AI`, `Agentic AI Workflows`, `Prompt Engineering`, `Risk Scoring Systems` |
-| **Environments & Tools** | `Git`, `GitHub`, `VS Code`, `Jupyter Notebook`, `Anaconda`, `Unity` |
+| **Environments & Tools** | `Git`, `GitHub`, `VS Code`, `Jupyter Notebook`, `Anaconda`, `Linux`, `Unity` |
 
 ---
 
@@ -254,6 +274,10 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
 </table>
 
 </details>
+
+<p align="center">
+  <img src="./assets/animated_divider.svg" width="100%" />
+</p>
 
 ---
 
