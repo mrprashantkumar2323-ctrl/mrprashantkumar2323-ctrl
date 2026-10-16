@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/mrprashantkumar2323-ctrl">
-    <img src="./assets/avatar_circle.png" width="150" height="150" alt="Prashant Kumar" />
+    <img src="./assets/avatar_circle.png" width="155" height="155" alt="Prashant Kumar" />
   </a>
 </p>
 
@@ -31,6 +31,14 @@
 
 ---
 
+### 🏆 GitHub 3D Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrprashantkumar2323-ctrl&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
+</p>
+
+---
+
 ### 💫 About Me
 
 I am a detail-oriented and analytical **Computer Science & Engineering undergraduate** (expected 2027) with a deep passion for **Data Analytics, Machine Learning, and Generative AI**. My work bridges the gap between raw datasets and actionable business intelligence — translating statistical findings into interactive dashboards, predictive risk models, and automated decision-making workflows.
@@ -43,25 +51,54 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
 
 ---
 
-### 🚀 Featured Projects & Industry Simulations
+### 🚀 Featured Production-Grade Repositories
+
+<p align="center">
+  <a href="https://github.com/mrprashantkumar2323-ctrl/British-Airways-Customer-Booking-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=British-Airways-Customer-Booking-Prediction&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+  <a href="https://github.com/mrprashantkumar2323-ctrl/Tata-GenAI-Financial-Delinquency-Collections">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=Tata-GenAI-Financial-Delinquency-Collections&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mrprashantkumar2323-ctrl/JPMorgan-Quantitative-Research-Credit-Risk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=JPMorgan-Quantitative-Research-Credit-Risk&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+  <a href="https://github.com/mrprashantkumar2323-ctrl/Netflix-Data-Analysis-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=Netflix-Data-Analysis-Project&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mrprashantkumar2323-ctrl/HR-Analytics-PowerBI-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=HR-Analytics-PowerBI-Dashboard&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+</p>
+
+---
+
+### 🔬 Project Deep Dives & Industry Simulations
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">✈️ British Airways — Predictive Booking Model</h3>
+      <h3 align="center">✈️ <a href="https://github.com/mrprashantkumar2323-ctrl/British-Airways-Customer-Booking-Prediction">British Airways Booking Prediction</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Accuracy-85.2%25-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Accuracy-85.20%25-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ROC--AUC-0.77-blueviolet?style=flat-square"/>
       </p>
       <ul>
-        <li>Trained a <b>Random Forest Classifier</b> on <b>50,000+ passenger records</b> to predict customer booking conversions, achieving <b>85.20% accuracy</b> and <b>0.77 ROC-AUC</b>.</li>
-        <li>Conducted deep feature importance analysis revealing that purchase lead time, flight duration, and preferred seating are the primary conversion drivers.</li>
+        <li>Trained a <b>Random Forest Classifier</b> on <b>50,000+ passenger records</b> to predict customer booking conversions with <b>85.20% accuracy</b>.</li>
+        <li>Feature importance ranking isolating purchase lead, flight duration, and preferred seating as critical conversion drivers.</li>
         <li>Built an algorithmic evaluation system for passenger lounge eligibility at Heathrow Terminal 3.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/mrprashantkumar2323-ctrl/British-Airways-Customer-Booking-Prediction"><b>View Source Code &amp; Notebook &rarr;</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Tata — GenAI Financial Collections (Geldium)</h3>
+      <h3 align="center">🤖 <a href="https://github.com/mrprashantkumar2323-ctrl/Tata-GenAI-Financial-Delinquency-Collections">Tata GenAI Collections (Geldium)</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square"/>
         <img src="https://img.shields.io/badge/SHAP%20Explainability-0284C7?style=flat-square"/>
@@ -72,41 +109,48 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
         <li>Integrated human-in-the-loop governance for high-risk accounts and hardship plan escalations.</li>
         <li>Implemented <b>Responsible AI guardrails</b> using SHAP explainability metrics and regulatory compliance checks (ECOA, GDPR).</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/mrprashantkumar2323-ctrl/Tata-GenAI-Financial-Delinquency-Collections"><b>View Source Code &amp; Workflow &rarr;</b></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Enterprise HR Analytics Power BI Dashboard</h3>
+      <h3 align="center">📊 <a href="https://github.com/mrprashantkumar2323-ctrl/HR-Analytics-PowerBI-Dashboard">Enterprise HR Analytics Power BI</a></h3>
       <p align="center">
-        <a href="https://github.com/mrprashantkumar2323-ctrl/HR-Analytics-PowerBI-Dashboard">
-          <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-          <img src="https://img.shields.io/badge/DAX%20Measures-00758F?style=flat-square"/>
-          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white"/>
-        </a>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DAX%20Measures-00758F?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Workforce-Intelligence-blue?style=flat-square"/>
       </p>
       <ul>
         <li>Designed a multi-page interactive executive intelligence dashboard tracking workforce attrition, performance ratings, and salary distributions across departments.</li>
         <li>Engineered custom <b>DAX formulas</b> for attrition percentage, average tenure, overtime correlations, and satisfaction indices.</li>
         <li>Delivered clear visual storytelling enabling leadership to identify flight risks and optimize compensation structures.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/mrprashantkumar2323-ctrl/HR-Analytics-PowerBI-Dashboard"><b>View Dashboard Repository &rarr;</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📈 JPMorgan Chase & Co. — Quantitative Research</h3>
+      <h3 align="center">📈 <a href="https://github.com/mrprashantkumar2323-ctrl/JPMorgan-Quantitative-Research-Credit-Risk">JPMC Quantitative Credit Risk</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Quantitative%20Finance-1E293B?style=flat-square"/>
         <img src="https://img.shields.io/badge/Credit%20Risk-DC2626?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FICO-Bucketing-0284C7?style=flat-square"/>
       </p>
       <ul>
         <li>Analyzed historical price data and developed financial pricing models for <b>natural gas commodity storage contracts</b> based on injection/withdrawal schedules.</li>
         <li>Conducted credit risk modeling on borrower loan default probabilities.</li>
         <li>Engineered dynamic bucket optimization algorithms for <b>FICO credit scores</b> to maximize predictive discrimination.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/mrprashantkumar2323-ctrl/JPMorgan-Quantitative-Research-Credit-Risk"><b>View Quantitative Models &rarr;</b></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 Netflix Global Catalog Exploratory Data Analysis</h3>
+      <h3 align="center">🎬 <a href="https://github.com/mrprashantkumar2323-ctrl/Netflix-Data-Analysis-Project">Netflix Content Analytics &amp; EDA</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
@@ -117,9 +161,12 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
         <li>Cleaned complex nested data, engineered release temporal features, and normalized Movie vs TV series runtimes.</li>
         <li>Produced comprehensive visualizations communicating content acquisition strategies.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/mrprashantkumar2323-ctrl/Netflix-Data-Analysis-Project"><b>View Jupyter Notebook &rarr;</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 Deloitte Australia — Data Analytics Simulation</h3>
+      <h3 align="center">🔍 Deloitte Australia Forensic Simulation</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white"/>
         <img src="https://img.shields.io/badge/Forensic%20Tech-0F172A?style=flat-square"/>
@@ -210,6 +257,14 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
 
 ---
 
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrprashantkumar2323-ctrl&theme=tokyo-night&hide_border=true&area=true&color=38bdf8" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
 ### 📊 GitHub Statistics & Analytics
 
 <p align="center">
@@ -227,6 +282,14 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mrprashantkumar2323-ctrl/mrprashantkumar2323-ctrl/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+</p>
+
+---
+
+### 💡 Daily Engineering & Data Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 ---
