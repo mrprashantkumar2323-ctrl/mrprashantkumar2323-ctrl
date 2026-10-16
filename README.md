@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Data+Science+%26+Machine+Learning+Specialist+%F0%9F%A4%96;Power+BI+%26+Business+Intelligence+Storyteller+%F0%9F%93%8A;GenAI+%26+Agentic+AI+Collections+Architect+%F0%9F%9A%80;Quantitative+Research+%26+Risk+Analytics+%F0%9F%93%88;Python+%E2%80%A2+SQL+%E2%80%A2+Predictive+Modeling+%E2%80%A2+DAX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Data+Science+%26+Machine+Learning+Specialist+%F0%9F%A4%96;Power+BI+%26+Business+Intelligence+Storyteller+%F0%9F%93%8A;GenAI+%26+Agentic+AI+Collections+Architect+%F0%9F%9A%80;Quantitative+Research+%26+Risk+Analytics+%F0%9F%93%88;Python+%E2%80%A2+SQL+%E2%80%A2+C%2B%2B+%E2%80%A2+DAX+%E2%80%A2+IoT+Analytics" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Location-Jaipur%20%26%20Bhiwani%2C%20India-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering%20(2023--2027)-6366f1?style=flat-square&logo=book&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Data%20%2F%20ML%20Opportunities-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Portfolio-10%20Live%20Repositories-38bdf8?style=flat-square" />
 </p>
 
 <p align="center">
@@ -62,19 +63,38 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
 - 🔭 **Specialized Focus**: End-to-end data pipelines, predictive modeling (Scikit-Learn, Random Forest), quantitative risk analytics, and interactive Business Intelligence (Power BI, DAX).
 - 🧠 **Modern AI**: Designing Agentic AI systems with human-in-the-loop architectures and SHAP-based explainable AI guardrails.
 - 🎓 **Education**: Pursuing Bachelor of Technology in Computer Science & Engineering at **Arya College of Engineering & IT**, affiliated with Rajasthan Technical University.
-- 💼 **Industry Simulations**: Successfully completed 5 intensive data & quant simulations with **British Airways**, **Deloitte Australia**, **Tata**, **JPMorgan Chase & Co.**, and **Oasis Infobyte**.
-- 💬 **Ask me about**: Python, Pandas, Power BI DAX, Predictive Analytics, Delinquency Scoring, and Exploratory Data Analysis.
+- 💼 **Industry Simulations**: Completed intensive data & quant programs with **British Airways**, **Deloitte Australia**, **Tata**, **JPMorgan Chase & Co.**, and **Oasis Infobyte**.
+- 💬 **Ask me about**: Python, Pandas, Power BI DAX, Predictive Analytics, Delinquency Scoring, IoT Sensor Analytics, and Exploratory Data Analysis.
 
 ---
 
-### 🚀 Production-Grade Repositories (Click to Explore)
+### 🚀 Production Repositories Showcase (Click Cards to View Code)
 
+#### 🤖 Machine Learning, Data Science & AI Systems
 <p align="center">
   <a href="https://github.com/mrprashantkumar2323-ctrl/British-Airways-Customer-Booking-Prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=British-Airways-Customer-Booking-Prediction&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
   </a>
   <a href="https://github.com/mrprashantkumar2323-ctrl/Tata-GenAI-Financial-Delinquency-Collections">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=Tata-GenAI-Financial-Delinquency-Collections&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mrprashantkumar2323-ctrl/IoT-Smart-Factory-Telemetry-Analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=IoT-Smart-Factory-Telemetry-Analytics&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+  <a href="https://github.com/mrprashantkumar2323-ctrl/Deloitte-Forensic-Tech-Anomaly-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=Deloitte-Forensic-Tech-Anomaly-Detection&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+</p>
+
+#### 📊 Business Intelligence & Quantitative Finance
+<p align="center">
+  <a href="https://github.com/mrprashantkumar2323-ctrl/HR-Analytics-PowerBI-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=HR-Analytics-PowerBI-Dashboard&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+  <a href="https://github.com/mrprashantkumar2323-ctrl/Global-Sales-BI-Financial-Intelligence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=Global-Sales-BI-Financial-Intelligence&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
   </a>
 </p>
 <p align="center">
@@ -85,15 +105,17 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=Netflix-Data-Analysis-Project&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
   </a>
 </p>
+
+#### ⚡ High-Performance Systems & Algorithms
 <p align="center">
-  <a href="https://github.com/mrprashantkumar2323-ctrl/HR-Analytics-PowerBI-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=HR-Analytics-PowerBI-Dashboard&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
+  <a href="https://github.com/mrprashantkumar2323-ctrl/CPlusPlus-Algorithmic-Core-Engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprashantkumar2323-ctrl&repo=CPlusPlus-Algorithmic-Core-Engine&theme=radical&title_color=38bdf8&hide_border=true&bg_color=0d1117" width="48%" />
   </a>
 </p>
 
 ---
 
-### 🔬 Project Deep Dives & Industry Simulations
+### 🔬 Project Directory & Deep Dives
 
 <table>
   <tr>
@@ -105,13 +127,11 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
         <img src="https://img.shields.io/badge/ROC--AUC-0.77-blueviolet?style=flat-square"/>
       </p>
       <ul>
-        <li>Trained a <b>Random Forest Classifier</b> on <b>50,000+ passenger records</b> to predict customer booking conversions with <b>85.20% accuracy</b>.</li>
-        <li>Feature importance ranking isolating purchase lead, flight duration, and preferred seating as critical conversion drivers.</li>
-        <li>Built an algorithmic evaluation system for passenger lounge eligibility at Heathrow Terminal 3.</li>
+        <li>Random Forest Classifier trained on <b>50,000+ flight records</b> predicting booking conversions with <b>85.20% accuracy</b>.</li>
+        <li>Feature importance ranking isolating purchase lead, flight duration, and preferred seating.</li>
+        <li>Algorithmic rule engine for passenger lounge eligibility at Heathrow Terminal 3.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/mrprashantkumar2323-ctrl/British-Airways-Customer-Booking-Prediction"><b>View Source Code &amp; Notebook &rarr;</b></a>
-      </p>
+      <p align="center"><a href="https://github.com/mrprashantkumar2323-ctrl/British-Airways-Customer-Booking-Prediction"><b>View Code &rarr;</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 <a href="https://github.com/mrprashantkumar2323-ctrl/Tata-GenAI-Financial-Delinquency-Collections">Tata GenAI Collections (Geldium)</a></h3>
@@ -121,32 +141,71 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
         <img src="https://img.shields.io/badge/Impact-10%25%20Delinquency%20Drop-emerald?style=flat-square"/>
       </p>
       <ul>
-        <li>Architected an <b>Agentic AI collections framework</b> combining predictive risk scoring with automated reminder interventions and smart restructuring offers.</li>
-        <li>Integrated human-in-the-loop governance for high-risk accounts and hardship plan escalations.</li>
-        <li>Implemented <b>Responsible AI guardrails</b> using SHAP explainability metrics and regulatory compliance checks (ECOA, GDPR).</li>
+        <li>Architected an <b>Agentic AI collections framework</b> combining predictive risk scoring with automated reminder interventions.</li>
+        <li>Human-in-the-loop governance for high-risk accounts and hardship plan escalations.</li>
+        <li>Implemented <b>Responsible AI guardrails</b> using SHAP explainability metrics and regulatory checks (ECOA, GDPR).</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/mrprashantkumar2323-ctrl/Tata-GenAI-Financial-Delinquency-Collections"><b>View Source Code &amp; Workflow &rarr;</b></a>
-      </p>
+      <p align="center"><a href="https://github.com/mrprashantkumar2323-ctrl/Tata-GenAI-Financial-Delinquency-Collections"><b>View Code &rarr;</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📊 <a href="https://github.com/mrprashantkumar2323-ctrl/HR-Analytics-PowerBI-Dashboard">Enterprise HR Analytics Power BI</a></h3>
+      <h3 align="center">🏭 <a href="https://github.com/mrprashantkumar2323-ctrl/IoT-Smart-Factory-Telemetry-Analytics">IoT Smart Factory Predictive Maintenance</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/IoT-Sensor%20Telemetry-10B981?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ML-Anomaly%20Detection-6366F1?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Streaming industrial telemetry ingestion for machine vibration, temperature, and motor RPM.</li>
+        <li>Rolling window feature engineering capturing harmonic variance and thermal dissipation.</li>
+        <li>Predictive maintenance classifier flagging machine breakdown 45+ minutes in advance.</li>
+      </ul>
+      <p align="center"><a href="https://github.com/mrprashantkumar2323-ctrl/IoT-Smart-Factory-Telemetry-Analytics"><b>View Code &rarr;</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 <a href="https://github.com/mrprashantkumar2323-ctrl/Deloitte-Forensic-Tech-Anomaly-Detection">Deloitte Forensic Ledger Audit</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Algorithm-Isolation%20Forest-blueviolet?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Forensic data auditing on corporate accounting ledgers to detect invoice fraud and unauthorized spend.</li>
+        <li>Mathematical first-digit <b>Benford's Law distribution analysis</b> identifying tampered transactions.</li>
+        <li>Unsupervised Isolation Forest isolating anomalous cross-border transaction clusters.</li>
+      </ul>
+      <p align="center"><a href="https://github.com/mrprashantkumar2323-ctrl/Deloitte-Forensic-Tech-Anomaly-Detection"><b>View Code &rarr;</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 <a href="https://github.com/mrprashantkumar2323-ctrl/HR-Analytics-PowerBI-Dashboard">Enterprise HR Analytics &amp; Turnover ML</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
         <img src="https://img.shields.io/badge/DAX%20Measures-00758F?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Workforce-Intelligence-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ML-Random%20Forest-F7931E?style=flat-square"/>
       </p>
       <ul>
-        <li>Designed a multi-page interactive executive intelligence dashboard tracking workforce attrition, performance ratings, and salary distributions across departments.</li>
-        <li>Engineered custom <b>DAX formulas</b> for attrition percentage, average tenure, overtime correlations, and satisfaction indices.</li>
-        <li>Delivered clear visual storytelling enabling leadership to identify flight risks and optimize compensation structures.</li>
+        <li>Multi-page interactive executive intelligence dashboard tracking workforce attrition and salary equity.</li>
+        <li>Integrated Python Random Forest model (`hr_attrition_predictor.py`) isolating overtime and tenure attrition drivers.</li>
+        <li>Comprehensive DAX measure library for organizational retention analytics.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/mrprashantkumar2323-ctrl/HR-Analytics-PowerBI-Dashboard"><b>View Dashboard Repository &rarr;</b></a>
-      </p>
+      <p align="center"><a href="https://github.com/mrprashantkumar2323-ctrl/HR-Analytics-PowerBI-Dashboard"><b>View Code &rarr;</b></a></p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 <a href="https://github.com/mrprashantkumar2323-ctrl/Global-Sales-BI-Financial-Intelligence">Global Sales BI &amp; RFM Segmentation</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Power%20BI-DAX%20Measures-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Analytics-RFM%20Segmentation-0284C7?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Gross-to-Net revenue waterfall modeling with discount elasticity and gross margin optimization.</li>
+        <li>RFM (Recency, Frequency, Monetary) quantile customer segmentation isolating champion cohorts.</li>
+        <li>Production DAX library for Year-over-Year (YoY) revenue pacing and rolling moving averages.</li>
+      </ul>
+      <p align="center"><a href="https://github.com/mrprashantkumar2323-ctrl/Global-Sales-BI-Financial-Intelligence"><b>View Code &rarr;</b></a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📈 <a href="https://github.com/mrprashantkumar2323-ctrl/JPMorgan-Quantitative-Research-Credit-Risk">JPMC Quantitative Credit Risk</a></h3>
       <p align="center">
@@ -155,44 +214,24 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
         <img src="https://img.shields.io/badge/FICO-Bucketing-0284C7?style=flat-square"/>
       </p>
       <ul>
-        <li>Analyzed historical price data and developed financial pricing models for <b>natural gas commodity storage contracts</b> based on injection/withdrawal schedules.</li>
-        <li>Conducted credit risk modeling on borrower loan default probabilities.</li>
-        <li>Engineered dynamic bucket optimization algorithms for <b>FICO credit scores</b> to maximize predictive discrimination.</li>
+        <li>Valuation models for natural gas commodity storage contracts based on forward injection schedules.</li>
+        <li>Credit risk default probability modeling on borrower portfolios.</li>
+        <li>Dynamic programming optimization for optimal FICO score binning.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/mrprashantkumar2323-ctrl/JPMorgan-Quantitative-Research-Credit-Risk"><b>View Quantitative Models &rarr;</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎬 <a href="https://github.com/mrprashantkumar2323-ctrl/Netflix-Data-Analysis-Project">Netflix Content Analytics &amp; EDA</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-      </p>
-      <ul>
-        <li>Conducted exploratory data analysis across Netflix's content catalog to extract insights on genre trends, ratings, and global releases.</li>
-        <li>Cleaned complex nested data, engineered release temporal features, and normalized Movie vs TV series runtimes.</li>
-        <li>Produced comprehensive visualizations communicating content acquisition strategies.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/mrprashantkumar2323-ctrl/Netflix-Data-Analysis-Project"><b>View Jupyter Notebook &rarr;</b></a>
-      </p>
+      <p align="center"><a href="https://github.com/mrprashantkumar2323-ctrl/JPMorgan-Quantitative-Research-Credit-Risk"><b>View Code &rarr;</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 Deloitte Australia Forensic Simulation</h3>
+      <h3 align="center">⚡ <a href="https://github.com/mrprashantkumar2323-ctrl/CPlusPlus-Algorithmic-Core-Engine">C++ High-Performance Engine</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Forensic%20Tech-0F172A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Risk%20Profiling-2563EB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Physics-Vector%20Mechanics-059669?style=flat-square"/>
       </p>
       <ul>
-        <li>Conducted forensic data analytics to identify suspicious operational patterns and transactions.</li>
-        <li>Applied data reconciliation techniques and risk profiling to audit corporate datasets.</li>
-        <li>Prepared executive-ready data reports communicating forensic technology findings.</li>
+        <li>Zero-dependency C++17 spatial vector physics engine with operator overloading.</li>
+        <li>Boundary collision handling with kinetic energy restitution damping.</li>
+        <li>Decoupled frame-rate independent delta-time simulation tick loop.</li>
       </ul>
+      <p align="center"><a href="https://github.com/mrprashantkumar2323-ctrl/CPlusPlus-Algorithmic-Core-Engine"><b>View Code &rarr;</b></a></p>
     </td>
   </tr>
 </table>
@@ -211,7 +250,7 @@ I am a detail-oriented and analytical **Computer Science & Engineering undergrad
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming & Scripting** | `Python`, `C++`, `C`, `SQL`, `DAX` |
+| **Programming & Scripting** | `Python`, `C++`, `C`, `SQL`, `DAX`, `Bash` |
 | **Data Science & ML** | `Scikit-Learn`, `Pandas`, `NumPy`, `Predictive Modeling`, `Feature Engineering`, `SHAP`, `EDA` |
 | **Analytics & Visualization** | `Power BI`, `Matplotlib`, `Seaborn`, `Microsoft Excel (Advanced)`, `Data Storytelling` |
 | **Modern AI & Frameworks** | `Generative AI`, `Agentic AI Workflows`, `Prompt Engineering`, `Risk Scoring Systems` |
